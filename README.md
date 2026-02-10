@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @peter12814901
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Peter 👋
 
-<!---
-peter12814901/peter12814901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- Telecommunications Engineering graduate
+- Learning Git & GitHub
+- Interested in tech and problem-solving
+
+## What I’m Learning
+- Git & GitHub workflows (commits, branches, pull requests)
+- Markdown for documentation
+- Collaborative development basics
+
+## Contact
+- GitHub: @peterfficials6
