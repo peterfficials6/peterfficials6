@@ -25,11 +25,11 @@ Telecommunications Engineering graduate with a strong interest in technology and
 ---
 
 ## Socials
-- [TikTok](https://tiktok.com/@it 's-your-guy-dice)
-- [Pinterest](https://pinterest.com/papichulopinchez@gmail.com)
-- [X](https://x.com/papichulopinchez@gmail.com)
+- TikTok https://tiktok.com/@it 's-your-guy-dice
+- Pinterest https://pinterest.com/papichulopinchez@gmail.com)
+- X https://x.com/papichulopinchez@gmail.com)
 
 ---
 
 ## Support
-If you'd like to support my work, you can donate via [PayPal](https://paypal.me/papichulopinchez@gmail.com)
+If you'd like to support my work, you can donate via PayPal(https://paypal.me/papichulopinchez@gmail.com)
