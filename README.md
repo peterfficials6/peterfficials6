@@ -1,6 +1,6 @@
 # Hi, I'm Peter
 
-![Peter](https://img.shields.io/badge/Peter-Developer-blue?style=for-the-badge&logo=github)
+![Peter - Telecom Engineer](https://img.shields.io/badge/Peter-Telecom%20Engineer-purple?style=for-the-badge&logo=dev)
 
 ## About Me
 Telecommunications Engineering graduate with a strong interest in technology and problem-solving. Currently focused on building practical skills through hands-on development work.
